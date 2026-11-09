@@ -1,6 +1,6 @@
-﻿namespace Exemple.Models;
+﻿namespace Ex1;
 
-enum Especie {
+public enum Especie {
         GOS,
         GAT,
         CONILL,
